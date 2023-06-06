@@ -8,6 +8,8 @@ import PhoneIcon from '@mui/icons-material/Phone';
 import EmailIcon from '@mui/icons-material/Email';
 import PlaceIcon from '@mui/icons-material/Place';
 import '../styles/Contact.css'
+import Link from '@mui/material/Link';
+import GitHubIcon from '@mui/icons-material/GitHub';
 
 
 const Item = styled(Paper)(({ theme }) => ({
@@ -15,6 +17,7 @@ const Item = styled(Paper)(({ theme }) => ({
   padding: theme.spacing(1),
   textAlign: 'center',
   color: 'black',
+  
 }));
 function Contact() {
   return (
@@ -28,9 +31,8 @@ function Contact() {
           <h1>
             Contact
           </h1>
-          
-          <p className='detail-contact'> 
-          
+        
+
           <div className='detail-con'>
           <PlaceIcon /> 
            59/13 Moo 1, Tha Sai-Bang Yee, Khlong Hae, Hat Yai , Songkhla 90110
@@ -47,13 +49,24 @@ function Contact() {
           </div>
           
           <div className='detail-con'>
-          <br /><FacebookIcon /> 
+          <br />
+          <Link href='https://www.facebook.com/profile.php?id=100003811156812'underline="none"> 
+          <FacebookIcon /> 
+          </Link> 
+           Jaa Piyawan Arakkunakorn
+          </div>
+
+          <div className='detail-con'>
+          <br />
+          <Link href='https://github.com/PiyawanA'underline="none"> 
+          <GitHubIcon /> 
+          </Link> 
            Jaa Piyawan Arakkunakorn
           </div>
           
-          </p>
+        
+        </Item>
           
-          </Item>
         </Grid>
     </Grid>
   </Box>
