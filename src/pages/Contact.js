@@ -57,17 +57,6 @@ function Contact() {
               90110
             </Grid>
 
-            {/* <Grid item xs={12} sm={12} md={1}>
-              <iframe
-                src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d15838.998335217584!2d100.44792084048024!3d7.038689183530382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s59%2F13%20Moo%201%2C%20Tha%20Sai-Bang%20Yee%2C%20Khlong%20Hae%2C%20Hat%20Yai%20%2C%20Songkhla%2090110!5e0!3m2!1sth!2sth!4v1686059524495!5m2!1sth!2sth"
-                width="300"
-                height="200"
-                style={{ border: "0" }}
-                allowFullScreen=""
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-              ></iframe>
-            </Grid> */}
           </Grid>
           <Divider />
 
