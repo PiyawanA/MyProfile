@@ -1,7 +1,26 @@
 .detail-con {
     display: flex;
-    flex-direction: row;
-    margin: 20px;
-    padding-left: 80px;
-    
+    padding: 20px;
 }
+  
+.container-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.detail-con:hover {
+    background-color: #c6e2ff;
+    border-radius: 8px;
+    transition: background-color 0.3s ease-in-out;
+}
+  
+.detail-con:hover {
+    transform: scale(1.05);
+    transition: transform 0.1s ease-in;
+}
+  
+.text-content {
+    color: #2a2a2a;
+}
+  
