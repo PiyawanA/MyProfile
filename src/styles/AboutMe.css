@@ -42,4 +42,9 @@ p {
 	.head {
 		text-align: center;
 	}
+	.pic-about {
+		border-radius: 8px;
+		width: 350px;
+		margin: 25px;
+	}
 }

@@ -24,4 +24,9 @@
     .home-con{
         flex-direction: column;
     }
+    .PicHome{
+        border-radius: 8px;
+        width: 350px;
+        margin: 25px;
+    }
 }
