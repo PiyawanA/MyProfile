@@ -51,7 +51,7 @@ function Skills() {
           </h1>
           
           <p>
-            <li> Thai (Netive) </li> <br />
+            <li> Thai (Native) </li> <br />
             <li> English (Basic) </li><br />
           </p>
 
