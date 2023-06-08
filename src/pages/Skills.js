@@ -51,8 +51,8 @@ function Skills() {
           </h1>
           
           <p>
-            <li> Thai </li> <br />
-            <li> English </li><br />
+            <li> Thai (Netive) </li> <br />
+            <li> English (Basic) </li><br />
           </p>
 
           </Item>
