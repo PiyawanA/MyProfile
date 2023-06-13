@@ -13,21 +13,18 @@ function AboutMe() {
       
           <p> 
             <h2>About Me</h2>
-            I am a student at the university. I am studying computer science. <br />
-            I am looking for an internship in front-end programming.  <br />
-            I would like to learn programming to gain real-world experience.  <br />
-            My goal is to acquire valuable learning experiences and prepare myself for work in society. <br />
+            I am a student at the university. I am studying computer science. 
+            I am looking for an internship in front-end programming.  
+            I would like to learn programming to gain real-world experience.  
+            My goal is to acquire valuable learning experiences and prepare myself for work in society. 
             I hope to apply the experience gained in my future work. <br /><br />
 
             <h2> Internship </h2>
-            <h3>National Science and Technology Development Agency</h3>
             <h4>April 2022 - June 2022</h4>
-            <ul>
-              <li> I have learned about the Tableau program and created learning materials.</li>
-              <li>Test data was used for data analysis.  
-                  Then, I will explain my thought process and ensure that the mentor understands it.
-                  When problems are encountered,I can ask the mentor directly for assistance.</li>
-            </ul>
+            <h5>National Science and Technology Development Agency</h5>
+            <h4>Data Analysis (Data Visualization)</h4>
+            I have learned about the Tableau program and made the program guide where the data analyzed was energy data.
+            
           </p>
       </div>
 
