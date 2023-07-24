@@ -24,7 +24,16 @@ function AboutMe() {
             <h5>National Science and Technology Development Agency</h5>
             <h4>Data Analysis (Data Visualization)</h4>
             I have learned about the Tableau program and made the program guide where the data analyzed was energy data.
+            <br /><br />
             
+            <h2> Mini Project </h2>
+            <h4>Database mini project</h4>
+            I created a pet clinic database by designing an ER diagram and implementing it through programming.
+             For the programming aspect, I utilized SQL (phpMyAdmin) for the back-end and PHP for the front-end.
+             
+            <h4>Web programming mini project</h4>
+            I developed an anime review website and implemented a section in the front-end using the React framework.
+          
           </p>
       </div>
 
