@@ -6,8 +6,10 @@ function Home() {
   return (
     <div className='home-con'>
       <img src={pic} alt='profile' className='PicHome'/>
-      <h1>Piyawan Arakkunakorn  <br /> <br />
-       I am a computer science student.
+      
+      <h1> Piyawan Arakkunakorn  <br /> <br />
+      I have recently graduated with a bachelor's degree from
+      the Faculty of Science, majoring in Computer Science.
       </h1>
     </div>
   )

@@ -24,10 +24,10 @@ function Education() {
             <img src={picPSU} alt='PSU' className='pic-logo'/>
 
           <div> 
-            <h1> 2020-Present </h1>
+            <h1> 2020-2024 </h1>
             <h2> Prince of Songkla University Hat Yai Campus</h2>
             <h3> Faculty of Science (Computer Science)  </h3>
-            <h3> GPA 3.42 </h3>
+            <h3> GPA 3.44 </h3>
           </div>
         </Item>
 
